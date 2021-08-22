@@ -1,0 +1,18 @@
+{
+    "config":{
+    "env": "development",
+    "log": {
+        "format": "dev",
+        "dir": "../logs"
+    },
+    "cors": {
+        "origin": true,
+        "credentials": true
+    },
+    "APIS":{
+    "payAPI" :"https://api.okra.ng/v2/mock-api/pay",
+    "walletFetchAPI" :"https://api.okra.ng/v2/mock-api/fetch-wallet"
+},
+    "PORT":3112
+}
+}
