@@ -1,6 +1,6 @@
 # Project Title
 
-## NodeJS create logic
+## NodeJS consuming API
 
 ## Requirements
 
